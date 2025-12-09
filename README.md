@@ -25,7 +25,7 @@ O **Random Forest** foi o modelo mais eficaz, apresentando maior acurácia, prec
 
 ## 🎥 Vídeo Explicativo
 O vídeo completo da explicação do projeto está disponível em:
-➡️ **Vimeo:** *( https://vimeo.com/1144948218?share=copy&fl=sv&fe=ci)* 
+➡️ **Vimeo:** *( https://vimeo.com/1144948218)* 
 
 ## Como Utilizar
 1. Clone o repositório;

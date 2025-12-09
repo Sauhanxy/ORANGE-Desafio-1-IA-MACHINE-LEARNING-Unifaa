@@ -1,5 +1,6 @@
 # Desafio-1-IA-MACHINE-LEARNING-Unifaa
-Este projeto faz parte do **Desafio 1**, cujo objetivo é criar uma solução usando **técnicas de Machine Learning supervisionado**, sem o uso de redes neurais.  
+Este projeto faz parte do **Desafio 1**, cujo objetivo é criar uma solução usando **técnicas de Machine Learning supervisionado**, sem o uso de redes neurais. 
+
 A ferramenta utilizada foi o **Orange Data Mining**.
 
 ## 🎯 Objetivo do Projeto
@@ -27,6 +28,6 @@ O vídeo completo da explicação do projeto está disponível em:
 ➡️ **Vimeo:** *( https://vimeo.com/1144948218?share=copy&fl=sv&fe=ci)* 
 
 ## Como Utilizar
-1. Clone o repositório: git clone https://github.com/Sauhanxy/ORANGE-Desafio-1-IA-MACHINE-LEARNING-Unifaa.git
-2. Abra o **Orange** e carregue o arquivo `.ows` do projeto.  
+1. Clone o repositório;
+2. Abra o **Orange** e carregue o arquivo `.ows` do projeto; 
 3. Execute o workflow, visualize os resultados e compare o desempenho entre os algoritmos.

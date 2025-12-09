@@ -29,5 +29,4 @@ O vídeo completo da explicação do projeto está disponível em:
 
 ## Como Utilizar
 1. Clone o repositório;
-2. Abra o **Orange** e carregue o arquivo `.ows` do projeto; 
-3. Execute o workflow, visualize os resultados e compare o desempenho entre os algoritmos.
+2. Abra o **Orange** e carregue o arquivo `.ows` do projeto.
